@@ -5,10 +5,9 @@
     "require": {
         "php": "^5.3.3 || ^7.0"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/ChatLune/php-ini-wrapper"
+    "autoload": {
+        "psr-4": {
+            "ChatLune\\PhpIni\\": "src"
         }
-    ]
+    }
 }
