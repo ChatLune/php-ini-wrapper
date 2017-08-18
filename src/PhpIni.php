@@ -1,6 +1,6 @@
 <?php
 
-namespace ChatLune;
+namespace ChatLune\PhpIni;
 
 class PhpIni
 {
