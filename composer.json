@@ -1,0 +1,14 @@
+{
+    "name": "chatlune/php-ini-wrapper",
+    "description": "Small wrapper for PHP ini_get()",
+    "license": "MIT",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ChatLune/php-ini-wrapper"
+        }
+    ]
+}
